@@ -1,0 +1,10 @@
+glob:[Bb]in/
+[Oo]bj/
+!/lib
+
+glob:*.suo
+glob:*.vbproj.user
+glob:EGIS3.vbproj.vs10x
+glob:*.orig
+glob:_ReSharper*
+glob:*.DotSettings.user
